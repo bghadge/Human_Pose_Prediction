@@ -15,4 +15,4 @@ https://github.com/nghorbani/amass
 
 
 Following videos show predicted sequence and actual sequence:
-<video src="video.mp4" poster="poster.jpg" width="320" height="200" controls preload></video>
+<video src="Human_Pose_Prediction/Videos-20200509T043923Z-001/Videos/smooth_walk/fake.mp4" width="320" height="200" controls preload></video>
