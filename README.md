@@ -13,3 +13,6 @@ Using these numpy arrays, we can visualize the SMPL models. But because of a var
 To visualize these poses, you can install the following repo.
 https://github.com/nghorbani/amass
 
+
+Following videos show predicted sequence and actual sequence:
+<video src="video.mp4" poster="poster.jpg" width="320" height="200" controls preload></video>
