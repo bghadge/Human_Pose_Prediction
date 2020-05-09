@@ -1,4 +1,4 @@
-This Repository is contains our project on Computer vision.
+This Repository is contains our project on Computer vision. We are currently trying to get everything on github from google colab. Until we finalize it, refer to the python notebook.
 
 To run the code go to Computer_Vision_Final_Project/Code/Human Pose Prediction.ipynb
 Or click on the link below
