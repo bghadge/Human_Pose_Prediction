@@ -18,7 +18,7 @@ Following videos show predicted sequence and actual sequence:
 
 Predicted Sequence
 
-![alt-text](./Videos-20200509T043923Z-001/Videos/fake.gif)
+![Predicted Sequence](./Videos-20200509T043923Z-001/Videos/fake.gif)
 
 Actual Sequence
 
